@@ -1,0 +1,11 @@
+services:
+  server:
+    container_name: vids-server
+    build:
+      context: .
+    environment:
+      NODE_ENV: production
+      PORT: "3500"
+      HOST: "0.0.0.0"
+    ports: 
+      - "3500:3500"
