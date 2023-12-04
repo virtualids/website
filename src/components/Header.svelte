@@ -22,10 +22,10 @@
 				<a href="/about">about</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('https://github.com/virtualids') ? 'page' : undefined}>
-				<a href="https://github.com/virtualids">github</a>
+				<a href="https://github.com/virtualids" target="_blank">github</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('https://discord.gg/YfpXqFRG3H') ? 'page' : undefined}>
-				<a href="https://discord.gg/YfpXqFRG3H">discord</a>
+				<a href="https://discord.gg/YfpXqFRG3H" target="_blank">discord</a>
 			</li>
 		</ul>
 	</nav>

@@ -4,8 +4,15 @@
 </svelte:head>
 
 <section>
+
+	<p>the FAA describes erids as "a real time, interactive, electronic information display system that is used as a replacement for paper sources of information. ERIDS provides controllers, supervisors, and traffic management personnel with access to aeronautical data, weather data, airspace charts, ATC procedures, NOTAMs, PIREPs, and other sources of ATC information"</p>
+	<br>
+	<p>our goal is to recreate this system with adaptations to vatsim to aid enroute controllers on center</p>
+
+	<br>
+
     <h1>
-        erids is a work in progress. come back in the future
+        <strong>erids is a work in progress. come back in the future</strong>
     </h1>
 </section>
 
