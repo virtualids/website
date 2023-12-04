@@ -1,11 +1,11 @@
 <svelte:head>
-	<title>E-IDS</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>ERIDS</title>
+	<meta name="description" content="erids" />
 </svelte:head>
 
 <section>
     <h1>
-        e-ids is a work in progress. come back in the future
+        erids is a work in progress. come back in the future
     </h1>
 </section>
 

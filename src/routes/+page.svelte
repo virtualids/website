@@ -22,6 +22,12 @@
 		data information mastered for <strong><a href="https://www.vatusa.net/">vatusa</a></strong>
 	</h2>
 
+	<br>
+
+	<h2>
+		vids is a work in progress. check back in the future for updates
+	</h2>
+
 	
 </section>
 
