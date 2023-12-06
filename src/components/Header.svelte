@@ -12,11 +12,11 @@
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/erids' ? 'page' : undefined}>
-				<a href="/erids">erids</a>
+			<li aria-current={$page.url.pathname === '/e-ids' ? 'page' : undefined}>
+				<a href="/e-ids">e-ids</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/ids5' ? 'page' : undefined}>
-				<a href="/ids5">ids5</a>
+			<li aria-current={$page.url.pathname === '/pireps' ? 'page' : undefined}>
+				<a href="/pireps">pireps</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
 				<a href="/about">about</a>
